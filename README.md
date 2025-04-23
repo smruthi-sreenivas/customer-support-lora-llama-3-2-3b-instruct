@@ -1,6 +1,4 @@
-# customer-support-lora-llama-3-2-3b-instruct
-
-🦙 Fine-Tuning LLaMA 3 (2.3B) with LoRA for Customer Support Chatbot
+# 🦙 Fine-Tuning LLaMA 3 (2.3B) with LoRA for Customer Support Chatbot
 This project is about fine-tuning Meta’s LLaMA 3 2.3B Instruct model using LoRA (Low-Rank Adaptation) to build a custom chatbot for handling customer support queries. The idea is to make the model more aligned with support-specific conversations using an efficient and lightweight fine-tuning method.
 
 🔍 Why I Did This
